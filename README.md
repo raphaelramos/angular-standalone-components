@@ -1,27 +1,41 @@
-# AngularStandalone
+# Angular Standalone Components
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
+Projeto criado durante a vídeo aula sobre componentes autônomos do Angular, tornando NgModules opcional.
 
-## Development server
+- [Youtube](https://www.youtube.com/watch?v=CB88oX_eI-g)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Pre-requisites
 
-## Code scaffolding
+Node.js 16.13.x, 18.10.x,
+Angular CLI
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🚀 Quick start
 
-## Build
+**Install Node depedences**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```bash
+  npm install
+```
 
-## Running unit tests
+**Generate components standalone**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```bash
+  ng generate component --standalone component-name
+```
 
-## Running end-to-end tests
+**Start developing**
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+  ng serve
+```
 
-## Further help
+**Build**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+  npm run build:production
+```
+
+### Tech Stack
+
+- [Angular](https://angular.io/) - Framework Web
+- [Angular Material](https://material.angular.io/) - Components
