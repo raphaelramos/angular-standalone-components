@@ -1,6 +1,7 @@
 # Angular Standalone Components
 
-Projeto criado durante a vídeo aula sobre componentes autônomos do Angular, tornando NgModules opcional.
+Project created during the Angular 14 Autonomous Components video class, making NgModules optional.
+Projeto criado durante a vídeo aula sobre componentes autônomos do Angular 14, tornando NgModules opcional.
 
 [![Vídeo sobre Angular standalone components](https://user-images.githubusercontent.com/7671459/232959832-cbc9b865-056f-4972-928d-64c5d78880cc.png)](http://www.youtube.com/watch?v=CB88oX_eI-g "Video Title")
 
